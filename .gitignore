@@ -1,0 +1,9 @@
+.*
+!.gitignore
+
+bin
+obj
+appsettings.*
+Properties
+
+*csproj.user

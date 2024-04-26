@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cat-is-lost-api", "cat-is-lost-api\cat-is-lost-api.csproj", "{A74C42C8-5E42-4AF1-80E9-5F0118DA98B1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A74C42C8-5E42-4AF1-80E9-5F0118DA98B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A74C42C8-5E42-4AF1-80E9-5F0118DA98B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A74C42C8-5E42-4AF1-80E9-5F0118DA98B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A74C42C8-5E42-4AF1-80E9-5F0118DA98B1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B1FAA9BA-7EA3-4463-9318-6C099E95F626}
+	EndGlobalSection
+EndGlobal
